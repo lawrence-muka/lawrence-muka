@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a Software Developer based in Kenya. I have a 
 
 - **Programming Languages**: C#, Java, JavaScript, Dart, SQL, PHP.
 - **Frameworks and Libraries**: Entity Framework, Code Igniter, Node JS, React.
-- **Tools and Technologies**:  Git, Docker.
+- **Tools and Technologies**:  Visual Studio, VS Code, Eclipse, NetBeans, Maven, Gradle, Bitbucket, Git, Docker, MSSQL, MySQL, PostgreSQL, Postman, Swagger/OpenAPI, Insomnia, Jira, Asana, Microsoft Azure, Google Cloud Platform (GCP).
 - **Soft Skills**: Communication, Teamwork, Problem-solving.
 
 ## Projects
