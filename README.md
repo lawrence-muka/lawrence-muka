@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a Software Developer based in Kenya. I have a 
 
 ## Skills
 
-- **Programming Languages**: C#, .Net Core, ASP, ASP.Net, ASP.Net Core, HTML, JavaScript, Dart, MSSQL, MySQL, UX Design.
+- **Programming Languages**: C#, Java, JavaScript, Dart, SQL, PHP.
 - **Frameworks and Libraries**: Entity Framework, Code Igniter, Node JS, React.
 - **Tools and Technologies**:  Git, Docker.
 - **Soft Skills**: Communication, Teamwork, Problem-solving.
@@ -29,7 +29,7 @@ Here are some projects I’m proud of:
    - Tech Stack: C#, .Net Core, ASP.Net Core, MSSQL
 
 3. **[Smart Supply]**
-   - Description: Facilitates management of vendor relationships, streamline purchasing workflows, and track orders in real-time. Includes a procurement module that allows the organization to create and manage purchase orders, automate approvals, and track spending against budgets
+   - Description: Facilitates management of vendor relationships, streamline purchasing workflows, and track orders in real-time. Includes a procurement module that allows the organization to create and manage purchase orders, automate approvals, and track spending against budgets.
    - Tech Stack: C#, .Net Core, ASP.Net Core, MSSQL
 
 ## Get in Touch
