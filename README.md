@@ -1,6 +1,6 @@
 # Hello! I'm Lawrence Muka
 
-Welcome to my GitHub profile! I'm a Software Developer based in Kenya. I have a passion for coding, creating innovative designs, analyzing data and enjoy collaborating on projects that make a difference.
+Welcome to my GitHub profile! I'm a Software Developer, Co-Founder @[Smartcode Technologies](https://smartcode.co.ke/) based in Kenya. I have a passion for coding, creating innovative designs, analyzing data and enjoy collaborating on projects that make a difference.
 
 ## About Me
 
