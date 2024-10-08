@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Software Developer, Co-Founder @[Smartcode T
 
 ## About Me
 
-- 🎓 I studied Computer at Technical University Of Kenya.
+- 🎓 I studied Computer Science at Technical University Of Kenya.
 - 💻 I specialize in coding, creating innovative designs, analyzing data.
 - 🌱 Currently learning more about LLM.
 - 🤝 I'm always open to connecting with other professionals, so feel free to reach out!
